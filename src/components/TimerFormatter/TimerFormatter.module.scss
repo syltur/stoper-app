@@ -1,0 +1,8 @@
+@import '../../styles/settings.scss';
+
+.timeFormat {
+  display: flex;
+  justify-content: center;
+  font-size: $base-size * 6;
+  margin-bottom: $base-size * 2;
+}
